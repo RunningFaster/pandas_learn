@@ -80,3 +80,4 @@ df.at[dates[0], 'A'] = 0
 print(df)
 print(df)
 print(df)
+print(df2)
