@@ -1,0 +1,50 @@
+p{font-size:12px;line-height:0.2em;}
+
+.stress {
+    color: green;
+}
+
+.bigsize{
+
+    font-size:25px;
+
+}
+
+div b{
+    color: red;
+}
+
+b:hover{
+    color: royalblue;
+}
+
+address{
+    display: inline
+}
+
+#box1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    margin: 2px;
+    padding: 2px;
+}
+
+#box2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    float: left
+}
+
+div{
+
+    width:200px;
+
+    height:200px;
+
+    border:2px red solid;
+
+    float:left;
+
+}
